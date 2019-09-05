@@ -1,0 +1,15 @@
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\bin\Debug\OrionStar.exe.config
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\bin\Debug\OrionStar.exe
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\bin\Debug\OrionStar.pdb
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\obj\Debug\OrionStar.csprojAssemblyReference.cache
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\obj\Debug\MainWindow.g.cs
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\obj\Debug\App.g.cs
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\obj\Debug\OrionStar_MarkupCompile.cache
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\obj\Debug\OrionStar_MarkupCompile.lref
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\obj\Debug\MainWindow.baml
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\obj\Debug\OrionStar.g.resources
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\obj\Debug\OrionStar.Properties.Resources.resources
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\obj\Debug\OrionStar.csproj.GenerateResource.cache
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\obj\Debug\OrionStar.csproj.CoreCompileInputs.cache
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\obj\Debug\OrionStar.exe
+C:\Users\Fei\OneDrive\桌面\PROG8010\1Awork\OrionStar\OrionStar\obj\Debug\OrionStar.pdb
