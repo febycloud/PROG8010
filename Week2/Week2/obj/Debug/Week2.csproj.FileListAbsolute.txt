@@ -1,0 +1,15 @@
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\obj\Debug\Week2.csprojAssemblyReference.cache
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\obj\Debug\MainWindow.g.cs
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\obj\Debug\App.g.cs
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\obj\Debug\Week2_MarkupCompile.cache
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\obj\Debug\Week2_MarkupCompile.lref
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\bin\Debug\Week2.exe.config
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\bin\Debug\Week2.exe
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\bin\Debug\Week2.pdb
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\obj\Debug\MainWindow.baml
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\obj\Debug\Week2.g.resources
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\obj\Debug\Week2.Properties.Resources.resources
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\obj\Debug\Week2.csproj.GenerateResource.cache
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\obj\Debug\Week2.csproj.CoreCompileInputs.cache
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\obj\Debug\Week2.exe
+C:\Users\Fei\OneDrive\桌面\PROG8080\Week2\Week2\obj\Debug\Week2.pdb

@@ -1,0 +1,10 @@
+label
+
+button
+
+click
+
+image
+
+text
+
