@@ -30,9 +30,9 @@ namespace StadiumSeating
         {
             try
             {
-                int seatA = int.Parse(Aseat.Text); // get number from seaA label
-                int seatB = int.Parse(Bseat.Text);
-                int seatC = int.Parse(Cseat.Text);
+                uint seatA = uint.Parse(Aseat.Text); // get number from seaA label
+                uint seatB = uint.Parse(Bseat.Text);
+                uint seatC = uint.Parse(Cseat.Text);
                 IncomeA.Content = (decimal)(seatA * 15); //Compute the income of A seat
                 IncomeB.Content = (decimal)(seatB * 12);
                 IncomeC.Content = (decimal)(seatC * 9);
