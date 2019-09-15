@@ -1,0 +1,15 @@
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.csprojAssemblyReference.cache
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\obj\Debug\App.g.cs
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating_MarkupCompile.cache
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\obj\Debug\MainWindow.g.cs
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating_MarkupCompile.lref
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.exe.config
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.exe
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.pdb
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\obj\Debug\MainWindow.baml
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.g.resources
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.Properties.Resources.resources
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.csproj.GenerateResource.cache
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.csproj.CoreCompileInputs.cache
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.exe
+C:\Users\Fei\OneDrive\桌面\PROG8080\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.pdb
