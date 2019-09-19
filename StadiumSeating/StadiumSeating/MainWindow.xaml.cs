@@ -25,7 +25,7 @@ namespace StadiumSeating
             InitializeComponent();
         }
 
-        
+
         private void Compute_Click(object sender, RoutedEventArgs e)
         {
             try
@@ -46,7 +46,7 @@ namespace StadiumSeating
 
         private void Seat_KeyDown(object sender, KeyEventArgs e)  // start check when press the key
         {
-            if( e.Key>=Key.D0 && e.Key <= Key.D9 || e.Key == Key.Back) //when a key from 0-9 or back is pressed
+            if (e.Key >= Key.D0 && e.Key <= Key.D9 || e.Key == Key.Back) //when a key from 0-9 or back is pressed
             {
                 e.Handled = false; //recive the value of key 
             }
