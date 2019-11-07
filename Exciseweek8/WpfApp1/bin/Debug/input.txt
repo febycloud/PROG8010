@@ -1,0 +1,3 @@
+﻿brown,fried,oscar
+white,over easy,fred
+blue,boiled,mary

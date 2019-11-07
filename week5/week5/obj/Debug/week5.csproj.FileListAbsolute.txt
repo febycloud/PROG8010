@@ -1,0 +1,15 @@
+C:\Users\Fei\Desktop\PROG8010\week5\week5\bin\Debug\week5.exe.config
+C:\Users\Fei\Desktop\PROG8010\week5\week5\bin\Debug\week5.exe
+C:\Users\Fei\Desktop\PROG8010\week5\week5\bin\Debug\week5.pdb
+C:\Users\Fei\Desktop\PROG8010\week5\week5\obj\Debug\week5.csprojAssemblyReference.cache
+C:\Users\Fei\Desktop\PROG8010\week5\week5\obj\Debug\MainWindow.g.cs
+C:\Users\Fei\Desktop\PROG8010\week5\week5\obj\Debug\App.g.cs
+C:\Users\Fei\Desktop\PROG8010\week5\week5\obj\Debug\week5_MarkupCompile.cache
+C:\Users\Fei\Desktop\PROG8010\week5\week5\obj\Debug\week5_MarkupCompile.lref
+C:\Users\Fei\Desktop\PROG8010\week5\week5\obj\Debug\MainWindow.baml
+C:\Users\Fei\Desktop\PROG8010\week5\week5\obj\Debug\week5.g.resources
+C:\Users\Fei\Desktop\PROG8010\week5\week5\obj\Debug\week5.Properties.Resources.resources
+C:\Users\Fei\Desktop\PROG8010\week5\week5\obj\Debug\week5.csproj.GenerateResource.cache
+C:\Users\Fei\Desktop\PROG8010\week5\week5\obj\Debug\week5.csproj.CoreCompileInputs.cache
+C:\Users\Fei\Desktop\PROG8010\week5\week5\obj\Debug\week5.exe
+C:\Users\Fei\Desktop\PROG8010\week5\week5\obj\Debug\week5.pdb

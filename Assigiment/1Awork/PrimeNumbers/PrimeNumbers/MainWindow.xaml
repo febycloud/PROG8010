@@ -1,0 +1,46 @@
+﻿<!-- Assignment 5
+     Group 10:   Yuliia Sauk, Daniil Kurta, Fei Yun, Laxen Sapani-->
+<Window x:Class="PrimeNumbers.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PrimeNumbers"
+        mc:Ignorable="d"
+        Title="Prime Numbers" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="1.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Button Style="{DynamicResource GlassButton}" Margin="65,10,65,10" Name="ShowPrimeNumbers" Click="ShowNumbers" FontSize="25">
+            <Button.Content>
+                <TextBlock TextWrapping="Wrap" TextAlignment="Center">Show prime numbers from 1 to 100</TextBlock>
+            </Button.Content>
+        </Button>
+
+        <ListBox Grid.Column="1" Grid.RowSpan="3" Name="NumbersList" Margin="60,20,60,20">
+            <ListBoxItem></ListBoxItem>
+        </ListBox>
+
+        <Button Grid.Row="1" Style="{DynamicResource GlassButton}" Margin="65,10,65,10" Name="HidePrimeNumbers" Click="HideNumbers">Hide all numbers</Button>
+        
+        <Button Grid.Row="2" Style="{DynamicResource GlassButton}" Margin="65,10,65,10" Click="CheckPrime">
+            <Button.Content>
+                <TextBlock TextWrapping="Wrap" TextAlignment="Center" Width="230">Check if the number is prime:</TextBlock>
+            </Button.Content>
+        </Button>
+        <TextBox Grid.Row="3" Margin="65,20,65,20" Name="TheNumber" ></TextBox>
+        <Label Grid.Row="3" Grid.Column="1" Margin="60,20,60,20" Name="TheResult"></Label>
+     </Grid>
+</Window>

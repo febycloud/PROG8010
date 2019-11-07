@@ -1,0 +1,15 @@
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\bin\Debug\randtester.exe.config
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\bin\Debug\randtester.exe
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\bin\Debug\randtester.pdb
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\obj\Debug\randtester.csprojAssemblyReference.cache
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\obj\Debug\MainWindow.g.cs
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\obj\Debug\App.g.cs
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\obj\Debug\randtester_MarkupCompile.cache
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\obj\Debug\randtester_MarkupCompile.lref
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\obj\Debug\MainWindow.baml
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\obj\Debug\randtester.g.resources
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\obj\Debug\randtester.Properties.Resources.resources
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\obj\Debug\randtester.csproj.GenerateResource.cache
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\obj\Debug\randtester.csproj.CoreCompileInputs.cache
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\obj\Debug\randtester.exe
+C:\Users\Fei\Desktop\PROG8010\randtester\randtester\obj\Debug\randtester.pdb

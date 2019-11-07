@@ -1,0 +1,15 @@
+C:\Users\Fei\Desktop\isprime\isprime\obj\Debug\isprime.csprojAssemblyReference.cache
+C:\Users\Fei\Desktop\isprime\isprime\obj\Debug\App.g.cs
+C:\Users\Fei\Desktop\isprime\isprime\obj\Debug\isprime_MarkupCompile.cache
+C:\Users\Fei\Desktop\isprime\isprime\bin\Debug\isprime.exe.config
+C:\Users\Fei\Desktop\isprime\isprime\bin\Debug\isprime.exe
+C:\Users\Fei\Desktop\isprime\isprime\bin\Debug\isprime.pdb
+C:\Users\Fei\Desktop\isprime\isprime\obj\Debug\MainWindow.g.cs
+C:\Users\Fei\Desktop\isprime\isprime\obj\Debug\isprime_MarkupCompile.lref
+C:\Users\Fei\Desktop\isprime\isprime\obj\Debug\MainWindow.baml
+C:\Users\Fei\Desktop\isprime\isprime\obj\Debug\isprime.g.resources
+C:\Users\Fei\Desktop\isprime\isprime\obj\Debug\isprime.Properties.Resources.resources
+C:\Users\Fei\Desktop\isprime\isprime\obj\Debug\isprime.csproj.GenerateResource.cache
+C:\Users\Fei\Desktop\isprime\isprime\obj\Debug\isprime.csproj.CoreCompileInputs.cache
+C:\Users\Fei\Desktop\isprime\isprime\obj\Debug\isprime.exe
+C:\Users\Fei\Desktop\isprime\isprime\obj\Debug\isprime.pdb
