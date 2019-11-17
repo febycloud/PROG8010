@@ -1,0 +1,64 @@
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\dankurta\source\repos\TicTacToe\TicTacToe\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\yulia\Desktop\TicTacToe_2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+\\Mac\Home\Desktop\TicTacToe_2 2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Fei\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb

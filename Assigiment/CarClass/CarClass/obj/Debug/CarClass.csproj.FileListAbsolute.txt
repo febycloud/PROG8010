@@ -1,0 +1,15 @@
+C:\Users\Fei\Desktop\CarClass\CarClass\obj\Debug\CarClass.csprojAssemblyReference.cache
+C:\Users\Fei\Desktop\CarClass\CarClass\obj\Debug\MainWindow.g.cs
+C:\Users\Fei\Desktop\CarClass\CarClass\obj\Debug\App.g.cs
+C:\Users\Fei\Desktop\CarClass\CarClass\obj\Debug\CarClass_MarkupCompile.cache
+C:\Users\Fei\Desktop\CarClass\CarClass\obj\Debug\CarClass_MarkupCompile.lref
+C:\Users\Fei\Desktop\CarClass\CarClass\bin\Debug\CarClass.exe.config
+C:\Users\Fei\Desktop\CarClass\CarClass\bin\Debug\CarClass.exe
+C:\Users\Fei\Desktop\CarClass\CarClass\bin\Debug\CarClass.pdb
+C:\Users\Fei\Desktop\CarClass\CarClass\obj\Debug\MainWindow.baml
+C:\Users\Fei\Desktop\CarClass\CarClass\obj\Debug\CarClass.g.resources
+C:\Users\Fei\Desktop\CarClass\CarClass\obj\Debug\CarClass.Properties.Resources.resources
+C:\Users\Fei\Desktop\CarClass\CarClass\obj\Debug\CarClass.csproj.GenerateResource.cache
+C:\Users\Fei\Desktop\CarClass\CarClass\obj\Debug\CarClass.csproj.CoreCompileInputs.cache
+C:\Users\Fei\Desktop\CarClass\CarClass\obj\Debug\CarClass.exe
+C:\Users\Fei\Desktop\CarClass\CarClass\obj\Debug\CarClass.pdb
