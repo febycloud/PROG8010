@@ -1,0 +1,15 @@
+C:\Users\dankurta\source\repos\AS10\AS10\bin\Debug\AS10.exe.config
+C:\Users\dankurta\source\repos\AS10\AS10\bin\Debug\AS10.exe
+C:\Users\dankurta\source\repos\AS10\AS10\bin\Debug\AS10.pdb
+C:\Users\dankurta\source\repos\AS10\AS10\obj\Debug\AS10.csprojAssemblyReference.cache
+C:\Users\dankurta\source\repos\AS10\AS10\obj\Debug\MainWindow.g.cs
+C:\Users\dankurta\source\repos\AS10\AS10\obj\Debug\App.g.cs
+C:\Users\dankurta\source\repos\AS10\AS10\obj\Debug\AS10_MarkupCompile.cache
+C:\Users\dankurta\source\repos\AS10\AS10\obj\Debug\AS10_MarkupCompile.lref
+C:\Users\dankurta\source\repos\AS10\AS10\obj\Debug\MainWindow.baml
+C:\Users\dankurta\source\repos\AS10\AS10\obj\Debug\AS10.g.resources
+C:\Users\dankurta\source\repos\AS10\AS10\obj\Debug\AS10.Properties.Resources.resources
+C:\Users\dankurta\source\repos\AS10\AS10\obj\Debug\AS10.csproj.GenerateResource.cache
+C:\Users\dankurta\source\repos\AS10\AS10\obj\Debug\AS10.csproj.CoreCompileInputs.cache
+C:\Users\dankurta\source\repos\AS10\AS10\obj\Debug\AS10.exe
+C:\Users\dankurta\source\repos\AS10\AS10\obj\Debug\AS10.pdb

@@ -1,0 +1,55 @@
+﻿<!--Name my name-->
+    <Window x:Class="Finalsample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Finalsample"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="4*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="Dorm" FontSize="25" Margin="10"></Label>
+        <Label Grid.Row="0" Grid.Column="1" Content="Meal" FontSize="25" Margin="10"></Label>
+        <ListBox ItemsSource="{Binding Dorms}" SelectedItem="{Binding SelectedDorm}" Grid.Row="1" Grid.Column="0" FontSize="20" Margin="10">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Column="0" Content="{Binding Name}"></Label>
+                        <Label Grid.Column="1" Content="{Binding Amount}"></Label>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <ListBox ItemsSource="{Binding Meals}" SelectedItem="{Binding SelectedMeal}" Grid.Row="1" Grid.Column="1" FontSize="20" Margin="10">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Column="0" Content="{Binding Name}"></Label>
+                        <Label Grid.Column="1" Content="{Binding Amount}"></Label>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Label Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Content="{StaticResource BooleanToVisibilityConverter}" FontSize="20" Margin="10" Visibility="Hidden"></Label>
+        <Button Grid.Column="1" Grid.Row="3" FontSize="20" Content="Cal" Margin="5" Name="Calc" Click="Calc_Click"></Button>
+       
+    </Grid>
+</Window>

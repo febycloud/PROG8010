@@ -1,0 +1,34 @@
+﻿<Window x:Class="tictactoe.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tictactoe"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="" Name="L00" FontSize="60"></Label>
+        <Label Grid.Row="0" Grid.Column="1" Content="" Name="L01" FontSize="60"></Label>
+        <Label Grid.Row="0" Grid.Column="2" Content="" Name="L02" FontSize="60" ></Label>
+        <Label Grid.Row="1" Grid.Column="0" Content="" Name="L10" FontSize="60"></Label>
+        <Label Grid.Row="1" Grid.Column="1" Content="" Name="L11" FontSize="60"></Label>
+        <Label Grid.Row="1" Grid.Column="2" Content="" Name="L12" FontSize="60"></Label>
+        <Label Grid.Row="2" Grid.Column="0" Content="" Name="L20" FontSize="60"></Label>
+        <Label Grid.Row="2" Grid.Column="1" Content="" Name="L21" FontSize="60"></Label>
+        <Label Grid.Row="2" Grid.Column="2" Content="" Name="L22" FontSize="60"></Label>
+        <Button Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="3" Name="pvestart" Margin="10" Content="Start" FontSize="35" Click="Pvestart_Click"></Button>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Fei\Desktop\Week10sample\Week10sample\obj\Debug\Week10sample.csprojAssemblyReference.cache
+C:\Users\Fei\Desktop\Week10sample\Week10sample\obj\Debug\MainWindow.g.cs
+C:\Users\Fei\Desktop\Week10sample\Week10sample\obj\Debug\App.g.cs
+C:\Users\Fei\Desktop\Week10sample\Week10sample\obj\Debug\Week10sample_MarkupCompile.cache
+C:\Users\Fei\Desktop\Week10sample\Week10sample\obj\Debug\Week10sample_MarkupCompile.lref
+C:\Users\Fei\Desktop\Week10sample\Week10sample\bin\Debug\Week10sample.exe.config
+C:\Users\Fei\Desktop\Week10sample\Week10sample\bin\Debug\Week10sample.exe
+C:\Users\Fei\Desktop\Week10sample\Week10sample\bin\Debug\Week10sample.pdb
+C:\Users\Fei\Desktop\Week10sample\Week10sample\obj\Debug\MainWindow.baml
+C:\Users\Fei\Desktop\Week10sample\Week10sample\obj\Debug\Week10sample.g.resources
+C:\Users\Fei\Desktop\Week10sample\Week10sample\obj\Debug\Week10sample.Properties.Resources.resources
+C:\Users\Fei\Desktop\Week10sample\Week10sample\obj\Debug\Week10sample.csproj.GenerateResource.cache
+C:\Users\Fei\Desktop\Week10sample\Week10sample\obj\Debug\Week10sample.csproj.CoreCompileInputs.cache
+C:\Users\Fei\Desktop\Week10sample\Week10sample\obj\Debug\Week10sample.exe
+C:\Users\Fei\Desktop\Week10sample\Week10sample\obj\Debug\Week10sample.pdb

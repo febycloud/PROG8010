@@ -1,0 +1,17 @@
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Fei\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

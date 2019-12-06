@@ -1,0 +1,15 @@
+C:\Users\Fei\Desktop\Paysorter\Paysorter\bin\Debug\Paysorter.exe.config
+C:\Users\Fei\Desktop\Paysorter\Paysorter\bin\Debug\Paysorter.exe
+C:\Users\Fei\Desktop\Paysorter\Paysorter\bin\Debug\Paysorter.pdb
+C:\Users\Fei\Desktop\Paysorter\Paysorter\obj\Debug\Paysorter.csprojAssemblyReference.cache
+C:\Users\Fei\Desktop\Paysorter\Paysorter\obj\Debug\MainWindow.g.cs
+C:\Users\Fei\Desktop\Paysorter\Paysorter\obj\Debug\App.g.cs
+C:\Users\Fei\Desktop\Paysorter\Paysorter\obj\Debug\Paysorter_MarkupCompile.cache
+C:\Users\Fei\Desktop\Paysorter\Paysorter\obj\Debug\Paysorter_MarkupCompile.lref
+C:\Users\Fei\Desktop\Paysorter\Paysorter\obj\Debug\MainWindow.baml
+C:\Users\Fei\Desktop\Paysorter\Paysorter\obj\Debug\Paysorter.g.resources
+C:\Users\Fei\Desktop\Paysorter\Paysorter\obj\Debug\Paysorter.Properties.Resources.resources
+C:\Users\Fei\Desktop\Paysorter\Paysorter\obj\Debug\Paysorter.csproj.GenerateResource.cache
+C:\Users\Fei\Desktop\Paysorter\Paysorter\obj\Debug\Paysorter.csproj.CoreCompileInputs.cache
+C:\Users\Fei\Desktop\Paysorter\Paysorter\obj\Debug\Paysorter.exe
+C:\Users\Fei\Desktop\Paysorter\Paysorter\obj\Debug\Paysorter.pdb

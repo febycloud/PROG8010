@@ -1,0 +1,17 @@
+C:\Users\Fei\source\repos\Finalsample\Finalsample\obj\Debug\Finalsample.csprojAssemblyReference.cache
+C:\Users\Fei\source\repos\Finalsample\Finalsample\obj\Debug\Calcwindow.g.cs
+C:\Users\Fei\source\repos\Finalsample\Finalsample\obj\Debug\MainWindow.g.cs
+C:\Users\Fei\source\repos\Finalsample\Finalsample\obj\Debug\App.g.cs
+C:\Users\Fei\source\repos\Finalsample\Finalsample\obj\Debug\Finalsample_MarkupCompile.cache
+C:\Users\Fei\source\repos\Finalsample\Finalsample\obj\Debug\Finalsample_MarkupCompile.lref
+C:\Users\Fei\source\repos\Finalsample\Finalsample\bin\Debug\Finalsample.exe.config
+C:\Users\Fei\source\repos\Finalsample\Finalsample\bin\Debug\Finalsample.exe
+C:\Users\Fei\source\repos\Finalsample\Finalsample\bin\Debug\Finalsample.pdb
+C:\Users\Fei\source\repos\Finalsample\Finalsample\obj\Debug\Calcwindow.baml
+C:\Users\Fei\source\repos\Finalsample\Finalsample\obj\Debug\MainWindow.baml
+C:\Users\Fei\source\repos\Finalsample\Finalsample\obj\Debug\Finalsample.g.resources
+C:\Users\Fei\source\repos\Finalsample\Finalsample\obj\Debug\Finalsample.Properties.Resources.resources
+C:\Users\Fei\source\repos\Finalsample\Finalsample\obj\Debug\Finalsample.csproj.GenerateResource.cache
+C:\Users\Fei\source\repos\Finalsample\Finalsample\obj\Debug\Finalsample.csproj.CoreCompileInputs.cache
+C:\Users\Fei\source\repos\Finalsample\Finalsample\obj\Debug\Finalsample.exe
+C:\Users\Fei\source\repos\Finalsample\Finalsample\obj\Debug\Finalsample.pdb
